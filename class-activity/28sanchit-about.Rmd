@@ -1,0 +1,7 @@
+---
+title: "28sanchit-about"
+author: "Sanchit Mehrotra"
+date: "2024-10-03"
+output: pdf_document
+---
+I LOVE SOCCER. 
