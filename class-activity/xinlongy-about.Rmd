@@ -1,0 +1,12 @@
+---
+title: "About Me"
+author: "Edwin Yang"
+date: "2024-10-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Fun Fact: I'm left-handed
