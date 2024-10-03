@@ -1,0 +1,8 @@
+---
+title: "About Me"
+author: "Edwin Yang"
+date: "2024-10-03"
+output: html_document
+---
+
+Fun Fact: I'm left-handed
